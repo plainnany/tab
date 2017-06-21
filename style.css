@@ -29,13 +29,13 @@ li{
     background: #fff;
     text-align: center;
     cursor: pointer;
+    background: rgba(241,241,241,0.7);
 }
-#tab-nav>li:hover{
-    -color: #ff6700;
-}
+
 #tab-nav>li.active{
     color: #ff6700;
-    background: rgba(241,241,241,0.7)
+    background: #fff;
+    
 }
 #tab-panes{
     padding-top: 30px;
